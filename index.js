@@ -11,8 +11,8 @@ var staticToken = '';
 
 app.get('/login', async (req, res) => {
 	let data = {
-		userName: "acikgoz",
-		password: "ta211uuO+",
+		userName: "xxxx",
+		password: "yyyyyy",
 		computerId: "asd",
 		license: "asd"
 	};
